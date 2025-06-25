@@ -146,7 +146,7 @@ The entry criteria defined in the Test Planning phase have been achieved, and th
 
 [Test status report](Test-Summary)
 
-[Test metrics](Test-Metrics)
+[Test-metric](Test-Metrics)
 
 
 <h3> 1.3 Test Analysis </h3>
