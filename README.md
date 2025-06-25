@@ -182,7 +182,9 @@ The following test conditions were found: <br>
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications.
 
-[The test cases can be accessed here](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Test-Cases.csv)
+The test cases can be accessed here:
+
+[Test Case](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Test-Cases.csv)
 
 <h3>1.5 Test Implementation</h3>
 
