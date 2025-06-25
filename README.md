@@ -13,18 +13,18 @@ Functional specification of two modules:
 
 The following 5 stories were created in Jira and describe the functional specifications of the Buy module, for which the final project is being performed.
 
-1.	Search and filter items
-2.	View images and item details
-3.	Save items that I like
-4.	Purchase items using my card
-5.	Receive order confirmation on email
+1.	[Search and filter items](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-1.png)
+2.	[View images and item details](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-2.png)
+3.	[Save items that I like](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-3.png)
+4.	[Purchase items using my card](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-4.png)
+5.	[Receive order confirmation on email](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-5.png)
    
 The following 4 stories were created in Jira and describe the functional specifications of the Sell module, for which the final project is being performed.
 
-7.	List and sell items
-8.	Add information for my item and upload photos
-9.	Receive a confirmation after successfully listing an item
-10. Promote a listed item
+6.	[List and sell items](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-6.png)
+7.	[Add information for my item and upload photos](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-7.png)
+8.	[Receive a confirmation after successfully listing an item](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-8.png)
+9. [Promote a listed item](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-9.png)
     
 Here you can find the release that was created for this project:
 [Release](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Release.png)
