@@ -224,9 +224,9 @@ The traceability matrix was generated and can be found here:
 
 [Traceability Matrix](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Traceability-Matrix.png)
 
-Test execution chart was generated and can be found below. 
+Test execution chart was generated and can be found below: 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+[Test Execution Chart](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Test-Execution-Chart.png)
 
 The final report shows that a number 7 tests have failed of a total of 28. 
 
