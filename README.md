@@ -130,11 +130,13 @@ Non-functional testing:
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+Project risks are related to the need to create real accounts to publish products, to use real photos in ads, to use real bank accounts and addresses, and to ultimately make real payments.
+
 
 <h5> Product risks: </h5>
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+Product risks are related to not publishing clothing items, not displaying photos in the appropriate quality, inaccurate filtering of products, not filtering the types of print patterns on items, displaying unavailable products, lack of clothing brands, difficulty selling published products due to high competition, the need to lower the price and promote products thus spending money.
+
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
