@@ -27,7 +27,7 @@ The following 4 stories were created in Jira and describe the functional specifi
 10. Promote a listed item
     
 Here you can find the release that was created for this project:
-Release
+[Release](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Release.png)
 
 Testing process
 
