@@ -9,6 +9,7 @@ Tools used: Jira, Zephyr Squad.
 Functional specification of two modules:
 
 •	Buy Module
+
 •	Sell Module
 
 The following 5 stories were created in Jira and describe the functional specifications of the Buy module, for which the final project is being performed.
@@ -40,10 +41,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 1.1.1. Roles asigned to the project and persons allocated
 (numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)
 
-•	Alexandru Bucur
-•	Fabian Cojocaru
-•	Popescu David
-•	Ionuț Cheran
+•	Project manager: Alexandru Bucur
+•	Product owner: Fabian Cojocaru
+•	Software developer: Popescu David
+•	QA Engineer: Ionuț Cheran
 
 
 
