@@ -212,7 +212,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 
 [Bugs](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Bugs.doc)
 
-The following is a summary of the bugs that have been found
+The following is a summary of the bugs that have been found:
 
 1. The sell an item button (+) does not respond on mobile devices. Priority: Highest
 2. Check if the layout of the description field doesn't break on mobile devices. Priority: Medium
