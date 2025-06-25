@@ -213,7 +213,15 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 [Bugs](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Bugs.doc)
 
 The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
+
+1. The sell an item button (+) does not respond on mobile devices. Priority: Highest
+2. Check if the layout of the description field doesn't break on mobile devices. Priority: Medium
+3. Check if you can list another item. Priority: Highest
+4. Check if the user can view his last searches. Priority: Medium
+5. Check if the user can remove saved items to favourites. Priority: Medium
+6. Check if the user receives a purchase receipt of his order on email. Priority: High
+7. Check if the user can zoom in and zoom out on the map of pick-up points. Priority: Medium
+   
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
