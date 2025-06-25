@@ -145,7 +145,7 @@ The entry criteria defined in the Test Planning phase have been achieved, and th
 <h3>1.2 Test Monitoring and Control<h3>
 
 [Test status report](Test-Summary)
-[Test metric](Test-Metrics)
+[Test metrics](Test-Metrics)
 
 
 <h3> 1.3 Test Analysis </h3>
