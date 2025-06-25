@@ -186,7 +186,19 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 
 The following elements are needed to be ready before the test execution phase begins:
 
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
+• Approved test plan
+
+• Completed and reviewed Test Cases
+
+• Test data available
+
+• Functional test environment
+
+• Access to Jira
+
+• Entry and exit criteria
+
+• Product risks and project risks
 
 <h3>1.6. Test Execution </h3>
 
