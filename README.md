@@ -146,7 +146,7 @@ The entry criteria defined in the Test Planning phase have been achieved, and th
 
 [Test status report](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Test-Summary.png)
 
-[Test-metric](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Test-Metrics.png)
+[Test-metrics](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Test-Metrics.png)
 
 
 <h3> 1.3 Test Analysis </h3>
@@ -154,11 +154,13 @@ The testing process will be executed based on the application requirements. <b>(
 
 The following test conditions were found: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications.
+
+[The test cases can be accessed here](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Test-Cases.csv)
 
 <h3>1.5 Test Implementation</h3>
 
