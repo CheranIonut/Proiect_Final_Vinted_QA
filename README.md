@@ -28,6 +28,7 @@ The following 4 stories were created in Jira and describe the functional specifi
 9. [Promote a listed item](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Story-9.png)
     
 Here you can find the release that was created for this project:
+
 [Release](https://github.com/CheranIonut/Proiect_Final_Vinted_QA/blob/main/Release.png)
 
 Testing process
@@ -35,7 +36,7 @@ Testing process
 The test process was performed based on the standard test process as described below.
 
 1.1 Test planning
-The Test Plan is designed to describe all details of testing for two modules from the Vinted application.
+The Test Plan is designed to describe all details of testing for two major modules from the Vinted application.
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
 1.1.1. Roles asigned to the project and persons allocated
@@ -83,11 +84,42 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+Functional testing: positive and negative testing.
+System testing.
 
 <h5>Tests not in scope: </h5>
 
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+Non-functional testing:
+
+-	Stress testing
+  
+-	Load testing
+  
+-	Volume testing
+  
+-	Spike testing
+  
+-	Scalability testing
+  
+-	Reliability testing
+  
+-  Recovery testing
+  
+-	Usability testing
+  
+-	Portability testing
+  
+-	Maintainability testing
+  
+-	Security testing
+  
+-	Compatibility testing
+  
+-	Localization testing
+  
+-	Compliance regulation testing
+
+
 
 <h4>1.1.5 Risks detected</h4>
 
