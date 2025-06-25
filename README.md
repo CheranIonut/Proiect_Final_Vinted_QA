@@ -1,54 +1,49 @@
-<h1> Testing Project for Vinted <h1>
-
+<h1>Testing Project for Vinted</h1>
 
 The scope of the final project for ITF Manual Testing Course is to use all the gained knowledge through the course and apply it in practice, using a live application.
-
 Application under test: Vinted
 
 Tools used: Jira, Zephyr Squad.
 
 Functional specification of two modules:
 
-- Buy Module
-- Sell Module
-
+•	Buy Module
+•	Sell Module
 
 The following 5 stories were created in Jira and describe the functional specifications of the Buy module, for which the final project is being performed.
 
-1. Search and filter items
-2. View images and item details
-3. Save items that I like
-4. Purchase items using my card
-5. Receive order confirmation on email
-
+1.	Search and filter items
+2.	View images and item details
+3.	Save items that I like
+4.	Purchase items using my card
+5.	Receive order confirmation on email
+   
 The following 4 stories were created in Jira and describe the functional specifications of the Sell module, for which the final project is being performed.
 
-6. List and sell items
-7. Add information for my item and upload photos
-8. Receive a confirmation after successfully listing an item
-9. Promote a listed item
+7.	List and sell items
+8.	Add information for my item and upload photos
+9.	Receive a confirmation after successfully listing an item
+10.	Promote a listed item
     
 Here you can find the release that was created for this project:
 
-<h2>Testing process</h2>
+Testing process
 
 The test process was performed based on the standard test process as described below.
 
-<h3>1.1 Test planning</h3>
-
+1.1 Test planning
 The Test Plan is designed to describe all details of testing for two modules from the Vinted application.
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
+1.1.1. Roles asigned to the project and persons allocated
+(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)
 
-<h4>1.1.1. Roles asigned to the project and persons allocated</h4>
+•	Alexandru Bucur
+•	Fabian Cojocaru
+•	Popescu David
+•	Ionuț Cheran
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
-<ul>
-  <li>Alexandru Bucur</li> 
-  <li>Fabian Cojocaru</li>
-  <li>Popescu David</li>
-  <li>Ionuț Cheran</li>
-</ul>
+
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
