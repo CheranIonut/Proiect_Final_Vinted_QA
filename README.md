@@ -2,7 +2,9 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all the gained knowledge through the course and apply it in practice, using a live application.
 
-Application under test: Vinted (An online marketplace through which users can sell their new or second-hand items or purchase certain items from other users.)
+Application under test: Vinted
+
+What is Vinted and how does it work? Vinted is an online marketplace through which users can sell their new or second-hand items or purchase certain items from other users. You can use Vinted via their website or by downloading the app for free on both Android and iOS devices.
 
 Tools used: Jira, Zephyr Squad.
 
