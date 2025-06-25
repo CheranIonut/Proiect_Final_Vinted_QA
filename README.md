@@ -1,6 +1,7 @@
 <h1>Testing Project for Vinted</h1>
 
 The scope of the final project for ITF Manual Testing Course is to use all the gained knowledge through the course and apply it in practice, using a live application.
+
 Application under test: Vinted
 
 Tools used: Jira, Zephyr Squad.
@@ -23,9 +24,10 @@ The following 4 stories were created in Jira and describe the functional specifi
 7.	List and sell items
 8.	Add information for my item and upload photos
 9.	Receive a confirmation after successfully listing an item
-10.	Promote a listed item
+10. Promote a listed item
     
 Here you can find the release that was created for this project:
+Release
 
 Testing process
 
