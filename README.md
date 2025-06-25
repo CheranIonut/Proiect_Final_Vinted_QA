@@ -29,27 +29,24 @@ The following 4 stories were created in Jira and describe the functional specifi
     
 Here you can find the release that was created for this project:
 
-
-
-
 <h2>Testing process</h2>
 
 The test process was performed based on the standard test process as described below.
 
 <h3>1.1 Test planning</h3>
 
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for two modules from the Vinted application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **(inserati link catre documentul cu planul de testare)**
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
 **(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>Alexandru Bucur</li> 
+  <li>Fabian Cojocaru</li>
+  <li>Popescu David</li>
+  <li>Ionuț Cheran</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
