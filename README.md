@@ -42,8 +42,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 (numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)
 
 •	Project manager: Alexandru Bucur
+
 •	Product owner: Fabian Cojocaru
+
 •	Software developer: Popescu David
+
 •	QA Engineer: Ionuț Cheran
 
 
