@@ -84,10 +84,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5> Tests in scope: </h5>
 
-Functional testing: positive and negative testing.
-System testing.
+- Functional testing
+  
+- Positive and negative testing
+  
+- System testing
 
 <h5>Tests not in scope: </h5>
+
+-	Smoke Testing and Sanity Testing
 
 Non-functional testing:
 
