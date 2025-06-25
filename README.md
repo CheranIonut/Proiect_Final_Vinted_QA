@@ -84,47 +84,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5> Tests in scope: </h5>
 
-- Functional testing
-  
-- Positive and negative testing
-  
-- System testing
+- Functional testing; Positive and negative testing; System testing.
 
 <h5>Tests not in scope: </h5>
 
 -	Smoke Testing and Sanity Testing
 
-Non-functional testing:
-
--	Stress testing
-  
--	Load testing
-  
--	Volume testing
-  
--	Spike testing
-  
--	Scalability testing
-  
--	Reliability testing
-  
--  Recovery testing
-  
--	Usability testing
-  
--	Portability testing
-  
--	Maintainability testing
-  
--	Security testing
-  
--	Compatibility testing
-  
--	Localization testing
-  
--	Compliance regulation testing
-
-
+- Non-functional testing: Stress testing; Load testing; Volume testing; Spike testing; Scalability testing; Reliability testing; Recovery testing; Usability testing; Portability testing; Maintainability testing; Security testing; Compatibility testing; Localization testing; Compliance regulation testing.
 
 <h4>1.1.5 Risks detected</h4>
 
