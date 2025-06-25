@@ -53,11 +53,27 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+• Finalization and approval of the test plan
+
+• Finalization of business requirements
+
+• Selection of the team and assignment of roles in the project
+
+• Budget allocation
+
+• Preparation of the testing environment
+
+• Preparation of test data
+
+• Writing and validation of test cases
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+• All tests have been run
+• All critical defects have been fixed
+• The deadline has been reached
+• The budget has been exhausted
+• The summary report has been delivered and approved
 
 <h4> 1.1.4 Test scope</h4>
 
