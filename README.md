@@ -1,5 +1,6 @@
 <h1> Testing Project for Vinted <h1>
 
+
 The scope of the final project for ITF Manual Testing Course is to use all the gained knowledge through the course and apply it in practice, using a live application.
 
 Application under test: Vinted
