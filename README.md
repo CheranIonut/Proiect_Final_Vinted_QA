@@ -150,11 +150,65 @@ The entry criteria defined in the Test Planning phase have been achieved, and th
 
 
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
+• Check if the user can access the sell section
 
+• Check if the user can delete a listed item
+
+• Check if the user can add item details
+
+• Check if the user cannot upload more than 20 photos
+
+• Check if the user receives a confirmation message
+
+• Check if the user can save as a draft the item
+
+• Check if the user can finish editing the draft
+
+• Check if the user cannot upload an item leaving the fields blank
+
+• Check if the user can promote (bump) an item
+
+• Check if user can use another card to promote an item
+
+• Check if you cannot increase the price of a bumped item
+
+• Check if you can decrease the price of a bumped item
+
+• Check if the user can use the sell button (+) on mobile devices
+
+• Check if the layout of the description field doesn't break on mobile devices
+
+• Check if you can list another item
+
+• Check if the user can search and filter items
+
+• Check if an invalid filter combination returns zero results
+
+• Check if the user can clear filters
+
+• Check if the user can click on the item image or title
+
+• Check if the user can view the reviews and ratings on a seller's profile
+
+• Check if the user can view his last searches
+
+• Check if the user can save items to favourites
+
+• Check if the user cannot save items to favourites if he's not logged in
+
+• Check if the user can remove saved items to favourites
+
+• Check if the user can purchase an item
+
+• Check if the user can choose a pick-up point for delivery
+
+• Check if the user receives a purchase receipt of his order on email
+
+• Check if the user can zoom in and zoom out on the map of pick-up points
 
 <h3>1.4 Test Design</h3>
 
