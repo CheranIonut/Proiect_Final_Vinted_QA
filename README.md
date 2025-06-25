@@ -88,7 +88,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5>Tests not in scope: </h5>
 
--	Smoke Testing and Sanity Testing
+-	Smoke Testing and Sanity Testing.
 
 - Non-functional testing: Stress testing; Load testing; Volume testing; Spike testing; Scalability testing; Reliability testing; Recovery testing; Usability testing; Portability testing; Maintainability testing; Security testing; Compatibility testing; Localization testing; Compliance regulation testing.
 
