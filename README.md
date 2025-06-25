@@ -1,25 +1,36 @@
 Testing Project for Vinted
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
+The scope of the final project for ITF Manual Testing Course is to use all the gained knowledge through the course and apply it in practice, using a live application.
 
 Application under test: Vinted
 
 Tools used: Jira, Zephyr Squad.
 
-Functional specification sof two modules:
+Functional specification of two modules:
 
 - Buy Module
 - Sell Module
 
 
-The below stories were created in Jira and describes the functional specifications of the Buy module, for which the final project is performed upon.
+The following 5 stories were created in Jira and describe the functional specifications of the Buy module, for which the final project is being performed.
 
+1. Search and filter items
+2. View images and item details
+3. Save items that I like
+4. Purchase items using my card
+5. Receive order confirmation on email
 
+The following 4 stories were created in Jira and describe the functional specifications of the Sell module, for which the final project is being performed.
 
-
+6. List and sell items
+7. Add information for my item and upload photos
+8. Receive a confirmation after successfully listing an item
+9. Promote a listed item
+    
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+
+
 
 <h2>Testing process</h2>
 
