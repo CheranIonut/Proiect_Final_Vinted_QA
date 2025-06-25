@@ -228,8 +228,13 @@ Test execution chart was generated and can be found below.
 
 **(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
+The final report shows that a number 7 tests have failed of a total of 28. 
 
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+A number of 7 total bugs were found, from which the priority is: 3 are high and 4 are medium.
 
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
+A total of 9 stories were written for 2 modules (buying and selling products), all of which were covered by tests.
+In total, 28 tests were written and executed, of which 7 were bugs.
+
+Two of the bugs are of very high severity because the user is unable to list products using a mobile phone and cannot list a new product on the platform. Another bug is considered high severity because after purchasing a product, the user does not receive a receipt via email with all the identifying details of the completed transaction, the purchased product, and the seller. However, these details can still be found in the notifications section on the platform where the user has a valid account.
+
+The remaining four bugs are of medium severity: special characters that exceed the description field limits on the mobile interface, failure to display recent searches, non-functional plus and minus buttons on the pickup points map, and the inability to remove items from the favorites list. These issues do not significantly impact the end user, as they are still able to buy and/or sell products, which remain the primary goals.
